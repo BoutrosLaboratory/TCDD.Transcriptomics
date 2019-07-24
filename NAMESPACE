@@ -1,0 +1,9 @@
+export(
+	load.dataset.summary,
+	load.TCDD.expression,
+	load.TCDD.results,
+	create.significance.covariates,
+	load.homologeneData
+	);
+import(BoutrosLab.plotting.general);
+ importFrom("utils", "read.delim");

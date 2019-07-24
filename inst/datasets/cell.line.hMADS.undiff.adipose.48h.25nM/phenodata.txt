@@ -1,0 +1,5 @@
+FileName	Cy3	Cy5	cell.type	title
+GSM794128.gpr	TCDD	Ref	undifferentiated	undiff.TCDD.Rep1
+GSM794129.gpr	TCDD	Ref	undifferentiated	undiff.TCDD.Rep2
+GSM794130.gpr	TCDD	Ref	undifferentiated	undiff.TCDD.Rep3
+GSM794131.gpr	TCDD	Ref	undifferentiated	undiff.TCDD.Rep4

@@ -1,0 +1,7 @@
+	SampleID	Tissue	Sex	Age.yrs.	Treatment	Dose.nM.	Time
+GSM364049.CEL	Human1	Liver	Male	41yrs	DMSO	0	48hr
+GSM364054.CEL	Human1	Liver	Male	41yrs	TCDD	1e-05	48hr
+GSM364060.CEL	Human2	Liver	Female	56yrs	DMSO	0	48hr
+GSM364067.CEL	Human2	Liver	Female	56yrs	TCDD	1e-05	48hr
+GSM364074.CEL	Human3	Liver	Male	46yrs	DMSO	0	48hr
+GSM364081.CEL	Human3	Liver	Male	46yrs	TCDD	1e-05	48hr

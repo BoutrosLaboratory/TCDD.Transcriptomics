@@ -1,0 +1,14 @@
+Package: TCDD.Transcriptomics
+Version: 2.2.5
+Type: Package
+Title: TCDD Expression and Results Data along with a Loading Function
+Date: 2019-02-26
+Author: Katie Houlahan <Katie.Houlahan@oicr.on.ca>
+Maintainer: Stephenie Prokopec <Stephenie.Prokopec@oicr.on.ca>
+Depends: R (>= 2.10.1), BoutrosLab.plotting.general (>= 3.10.2)
+Suggests: MASS (>= 7.3-27)
+Description: Holds datasets of transcriptomic response to TCDD in H/W and L-E rat liver, adipose and hypothalamus, mouse kidney and liver tissues and human cell lines. Creates graphical covariates that can be added to a plot specifying if the genes within the subset plotted were significantly differentially expressed in the above TCDD analyses.
+License: GPL-2
+LazyLoad: yes
+NeedsCompilation: no
+Packaged: 2019-02-26 19:18:33 UTC; sprokopec

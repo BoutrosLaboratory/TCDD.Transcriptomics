@@ -1,0 +1,5 @@
+	SampleID	Tissue	Sex	Treatment	Dose.nM.	Time
+GSM364089.CEL	Rat1	Liver	Female	DMSO	0	48hr
+GSM364090.CEL	Rat2	Liver	Female	DMSO	0	48hr
+GSM364091.CEL	Rat1	Liver	Female	TCDD	1e-05	48hr
+GSM364092.CEL	Rat2	Liver	Female	TCDD	1e-05	48hr

@@ -1,0 +1,72 @@
+Dataset	Expression.file	Results.file	Phenodata.file	Array.type	Time.point	TCDD.dose	GEO.accession
+cell.line.human.hepatocytes.48h.0.00001nM	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Human Genome U133A Array	48 hours	0.00001 nM	GSE14553
+cell.line.human.hepatocytes.48h.0.001nM	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Human Genome U133A Array	48 hours	0.001 nM	GSE14553
+cell.line.human.hepatocytes.48h.0.01nM	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Human Genome U133A Array	48 hours	0.01 nM	GSE14553
+cell.line.human.hepatocytes.48h.0.1nM	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Human Genome U133A Array	48 hours	0.1 nM	GSE14553
+cell.line.human.hepatocytes.48h.1nM	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Human Genome U133A Array	48 hours	1 nM	GSE14553
+cell.line.human.hepatocytes.48h.10nM	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Human Genome U133A Array	48 hours	10 nM	GSE14553
+cell.line.human.hepatocytes.48h.316nM	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Human Genome U133A Array	48 hours	316 nM	GSE14553
+cell.line.rat.hepatocytes.48h.0.00001nM.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Rat Genome U34a Array	48 hours	0.00001 nM	GSE14554
+cell.line.rat.hepatocytes.48h.0.001nM.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Rat Genome U34a Array	48 hours	0.001 nM	GSE14554
+cell.line.rat.hepatocytes.48h.0.01nM.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Rat Genome U34a Array	48 hours	0.01 nM	GSE14554
+cell.line.rat.hepatocytes.48h.0.1nM.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Rat Genome U34a Array	48 hours	0.1 nM	GSE14554
+cell.line.rat.hepatocytes.48h.1nM.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Rat Genome U34a Array	48 hours	1 nM	GSE14554
+cell.line.rat.hepatocytes.48h.10nM.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Rat Genome U34a Array	48 hours	10 nM	GSE14554
+cell.line.rat.hepatocytes.48h.316nM.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Rat Genome U34a Array	48 hours	316 nM	GSE14554
+cell.line.hMADS.diff.adipose.48h.25nM	expression.txt.gz	results.txt.gz	phenodata.txt	Agilent-014850 Whole Human Genome Microarray 4x44K G4112F	48 hours	25 nM	GSE32026
+cell.line.hMADS.undiff.adipose.48h.25nM	expression.txt.gz	results.txt.gz	phenodata.txt	Agilent-014850 Whole Human Genome Microarray 4x44K G4112F	48 hours	25 nM	GSE32026
+mouse.ahrko.liver.19h.1000	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MOE430-2 Microarray	19 hours	1000 ug/kg	GSE15858
+mouse.ahrko.kidney.19h.1000	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MOE430-2 Microarray	19 hours	1000 ug/kg	GSE15857
+mouse.DBA.liver.19h.500	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	19 hours	500 ug/kg	GSE127217
+mouse.DBA.liver.19h.5	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	19 hours	5 ug/kg	GSE127217
+mouse.rWT.liver.19h.500	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	19 hours	500 ug/kg	GSE127217
+mouse.rWT.liver.19h.5	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	19 hours	5 ug/kg	GSE127217
+mouse.C57.liver.19h.500	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 2.0 ST array	19 hours	500 ug/kg	GSE127217
+mouse.C57.liver.19h.5	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 2.0 ST array	19 hours	5 ug/kg	GSE127217
+mouse.C57.liver.19h.500.exon	probeset_expression.txt.gz	probeset_results.txt.gz	phenodata.txt	Affymetrix Mouse Exon 1.0 ST array	19 hours	500 ug/kg	GSE126328
+mouse.C57.liver.19h.5.exon	probeset_expression.txt.gz	probeset_results.txt.gz	phenodata.txt	Affymetrix Mouse Exon 1.0 ST array	19 hours	5 ug/kg	GSE126328
+mouse.C57.liver.6h.500.male	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	6 hours	500 ug/kg	GSE61037
+mouse.C57.liver.24h.500.male	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	24 hours	500 ug/kg	GSE61037
+mouse.C57.liver.72h.500.male	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	72 hours	500 ug/kg	GSE61037
+mouse.C57.liver.144h.500.male	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	144 hours	500 ug/kg	GSE61037
+mouse.C57.liver.6h.500.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	6 hours	500 ug/kg	GSE61037
+mouse.C57.liver.24h.500.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	24 hours	500 ug/kg	GSE61037
+mouse.C57.liver.72h.500.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	72 hours	500 ug/kg	GSE61037
+mouse.C57.liver.144h.500.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	144 hours	500 ug/kg	GSE61037
+mouse.C57.liver.96h.125.male	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	125 ug/kg	GSE61038
+mouse.C57.liver.96h.250.male	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	250 ug/kg	GSE61038
+mouse.C57.liver.96h.500.male	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	500 ug/kg	GSE61038
+mouse.C57.liver.96h.1000.male	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	1000 ug/kg	GSE61038
+mouse.C57.liver.96h.125.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	125 ug/kg	GSE61038
+mouse.C57.liver.96h.250.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	250 ug/kg	GSE61038
+mouse.C57.liver.96h.500.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	500 ug/kg	GSE61038
+mouse.C57.liver.96h.1000.female	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	1000 ug/kg	GSE61038
+rat.LE.hypothalamus.23h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-2 Microarray	23 hours	100 ug/kg	GSE61039
+rat.HW.hypothalamus.23h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-2 Microarray	23 hours	100 ug/kg	GSE61039
+rat.LE.liver.19h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-A Microarray	19 hours	100 ug/kg	GSE10083
+rat.HW.liver.19h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-A Microarray	19 hours	100 ug/kg	GSE10083
+rat.LE.liver.3h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-A Microarray	3 hours	100 ug/kg	GSE10083
+rat.HW.liver.3h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-A Mircoarray	3 hours	100 ug/kg	GSE10083
+rat.LE.liver.96h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-2 Microarray	96 hours	100 ug/kg	GSE13513
+rat.HW.liver.96h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-2 Microarray	96 hours	100 ug/kg	GSE13513
+rat.LE.liver.240h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-2 Microarray	240 hours	100 ug/kg	GSE13513
+rat.HW.liver.240h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-2 Microarray	240 hours	100 ug/kg	GSE13513
+rat.LE.adipose.24h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-2 Microarray	24 hours	100 ug/kg	GSE18301
+rat.LE.adipose.96h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-2 Microarray	96 hours	100 ug/kg	GSE18301
+rat.HW.adipose.24h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-2 Microarray	24 hours	100 ug/kg	GSE18301
+rat.SD.liver.24h.C2.acute	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Rat Gene 2.0 ST array	24 hours	100 mg/kg/day	GSE126216
+rat.SD.liver.240h.C2.subacute	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix Rat Gene 2.0 ST array	240 hours	100 mg/kg/day	GSE126216
+ratonized.mouse.rWT.125	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	125 ug/kg	GSE72270
+ratonized.mouse.rWT.250	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	250 ug/kg	GSE72270
+ratonized.mouse.rWT.500	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	500 ug/kg	GSE72270
+ratonized.mouse.rWT.1000	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	1000 ug/kg	GSE72270
+ratonized.mouse.DEL.125	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	125 ug/kg	GSE72270
+ratonized.mouse.DEL.250	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	250 ug/kg	GSE72270
+ratonized.mouse.DEL.500	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	500 ug/kg	GSE72270
+ratonized.mouse.DEL.1000	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	1000 ug/kg	GSE72270
+ratonized.mouse.INS.125	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	125 ug/kg	GSE72270
+ratonized.mouse.INS.250	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	250 ug/kg	GSE72270
+ratonized.mouse.INS.500	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	500 ug/kg	GSE72270
+ratonized.mouse.INS.1000	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix MoGene 1.1 ST array	96 hours	1000 ug/kg	GSE72270
+rat.LnA.liver.19h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-A Microarray	19 hours	100 ug/kg	GSE10083
+rat.LnC.liver.19h.100	expression.txt.gz	results.txt.gz	phenodata.txt	Affymetrix RAE230-A Microarray	19 hours	100 ug/kg	GSE10083

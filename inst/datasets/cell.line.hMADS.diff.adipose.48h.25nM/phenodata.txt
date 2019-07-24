@@ -1,0 +1,5 @@
+ArrayFile	Cy3	Cy5	cell.type	title
+GSM794140.gpr	TCDD	Ref	differentiated	diff.TCDD.Rep1
+GSM794141.gpr	TCDD	Ref	differentiated	diff.TCDD.Rep2
+GSM794142.gpr	TCDD	Ref	differentiated	diff.TCDD.Rep3
+GSM794143.gpr	TCDD	Ref	differentiated	diff.TCDD.Rep4
